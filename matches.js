@@ -3,22 +3,31 @@ var myMain = {
 
 	"myMatch" : [
 		{
-			"col1":"data11",
-			"col2":"data12data12data12",
-			"col3":"data13",
-			"col4":"data14"
+			"match":"MI vs CSK",
+			"entry":"10",
+			"prize":"5000",
+			"size":"15",
+			"winner":"5",
+			"multientry":"yes",
+			"code":"lop@3dheytuom#e"
 		},
 		{
-			"col1":"data21",
-			"col2":"data22",
-			"col3":"data23data12",
-			"col4":"data24"
+			"match":"SRH vs CSK",
+			"entry":"10",
+			"prize":"5000",
+			"size":"15",
+			"winner":"5",
+			"multientry":"yes",
+			"code":"lop@3dheytuom#e"
 		},
 		{
-			"col1":"data31",
-			"col2":"data32data12",
-			"col3":"data33",
-			"col4":"data34"
+			"match":"MI vs RCB",
+			"entry":"10",
+			"prize":"5000",
+			"size":"15",
+			"winner":"5",
+			"multientry":"yes",
+			"code":"lop@3dheytuom#e"
 		}
 	]
 

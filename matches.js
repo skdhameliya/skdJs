@@ -28,6 +28,15 @@ var myMain = {
 			"winner":"5",
 			"multientry":"yes",
 			"code":"lop@3dheytuom#e"
+		},
+		{
+			"match":"KKR vs RCB",
+			"entry":"10",
+			"prize":"5000",
+			"size":"15",
+			"winner":"5",
+			"multientry":"yes",
+			"code":"lop@3dheytuom#e"
 		}
 	]
 

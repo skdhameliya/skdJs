@@ -3,40 +3,31 @@ var myMain = {
 
 	"myMatch" : [
 		{
-			"match":"MI vs CSK",
-			"entry":"10",
+			"match":"RCB vs MI",
+			"entry":"16",
 			"prize":"5000",
-			"size":"15",
-			"winner":"5",
+			"size":"50",
+			"winner":"25",
 			"multientry":"yes",
-			"code":"lop@3dheytuom#e"
+			"code":"18yu9ztwpfy1x-"
 		},
 		{
-			"match":"SRH vs CSK",
-			"entry":"10",
-			"prize":"5000",
-			"size":"15",
+			"match":"RCB vs MI",
+			"entry":"60",
+			"prize":"1500",
+			"size":"100",
 			"winner":"5",
-			"multientry":"yes",
-			"code":"lop@3dheytuom#e"
+			"multientry":"no",
+			"code":"p2dp03hgyamr64"
 		},
 		{
-			"match":"MI vs RCB",
-			"entry":"10",
-			"prize":"5000",
-			"size":"15",
+			"match":"RCB vs MI",
+			"entry":"15",
+			"prize":"500",
+			"size":"10",
 			"winner":"5",
 			"multientry":"yes",
-			"code":"lop@3dheytuom#e"
-		},
-		{
-			"match":"KKR vs RCB",
-			"entry":"10",
-			"prize":"5000",
-			"size":"15",
-			"winner":"5",
-			"multientry":"yes",
-			"code":"lop@3dheytuom#e"
+			"code":"che92mfla73@k"
 		}
 	]
 

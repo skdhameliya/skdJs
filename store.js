@@ -1,6 +1,6 @@
 [
    {
-      "courseName":"Fork CPP",
+      "courseName":"Fork CPP1",
       "courseimg":"https://media.geeksforgeeks.org/img-practice/banner/fork-cpp-thumbnail.png",
       "courseMode":"https://vegamovies.click/download-radhe-2021-web-dl-hindi-dd5-1-480p-300mb-720p-1-2gb-1080p-2gb/"
    },

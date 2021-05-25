@@ -1,32 +1,29 @@
 [
    {
-      "courseName":"Fork CPP1",
-      "courseimg":"https://media.geeksforgeeks.org/img-practice/banner/fork-cpp-thumbnail.png",
-      "courseMode":"https://vegamovies.click/download-radhe-2021-web-dl-hindi-dd5-1-480p-300mb-720p-1-2gb-1080p-2gb/"
+      "courseName":"Radhe",
+      "courseimg":"https://vegamovies.co.in/wp-content/uploads/2021/05/Radhe.jpg",
+      "courseMode":"https://vegamovies.co.in/download-radhe-2021-movie-480p-720p-1080p/"
    },
    {
-      "courseName":"Linux & Shell Scripting Foundation",
-      "courseimg":"https://media.geeksforgeeks.org/img-practice/banner/linux-shell-scripting-thumbnail.png",
-      "courseMode":"https://vegamovies.click/download-18-salahkaar-charmsukh-2021-season-1-hindi-ullu-originals-web-series-480p-720p-hdrip-2/"
+      "courseName":"The Big Bull",
+      "courseimg":"https://vegamovies.co.in/wp-content/uploads/2021/04/The-Big-Bull-2021.jpg",
+      "courseMode":"https://vegamovies.co.in/the-big-bull-2021-hdrip/"
    },
    {
-      "courseName":"11 Weeks Workshop on Data Structures and Algorithms",
-      "courseimg":"https://media.geeksforgeeks.org/img-practice/banner/Workshop-DSA-thumbnail.png",
-      "courseMode":"https://vegamovies.click/download-roberrt-2021-full-movie-hindi-hq-voice-over-dubbed-480p-550mb-720p-1-5gb-1080p-3gb-2/"
+      "courseName":"Vakeel Saab",
+      "courseimg":"https://vegamovies.co.in/wp-content/uploads/2021/04/Vakeel-Saab-2021-Hindi-poster.jpg",
+      "courseMode":"https://vegamovies.co.in/download-vakeel-saab-2021-hindi-dubbed-480p-720p-1080p/"
    },
    {
-      "courseName":"Data Structures and Algorithms",
-      "courseimg":"https://media.geeksforgeeks.org/img-practice/banner/dsa-self-paced-thumbnail.png",
-      "courseMode":"https://vegamovies.click/download-radhe-2021-web-dl-hindi-dd5-1-480p-300mb-720p-1-2gb-1080p-2gb/"
+      "courseName":"Raya and the Last Dragon",
+      "courseimg":"https://vegamovies.co.in/wp-content/uploads/2021/03/Raya-and-the-Last-Dragon-Hindi-Voice.jpg",
+      "courseMode":"https://vegamovies.co.in/raya-and-the-last-dragon-2021/"
    },
    {
-      "courseName":"11 Weeks Workshop on Data Structures and Algorithms",
-      "courseimg":"https://media.geeksforgeeks.org/img-practice/banner/Workshop-DSA-thumbnail.png",
-      "courseMode":"https://vegamovies.click/download-roberrt-2021-full-movie-hindi-hq-voice-over-dubbed-480p-550mb-720p-1-5gb-1080p-3gb-2/"
-   },   
-   {
-      "courseName":"11 Weeks Workshop on Data Structures and Algorithms",
-      "courseimg":"https://media.geeksforgeeks.org/img-practice/banner/Workshop-DSA-thumbnail.png",
-      "courseMode":"https://vegamovies.click/download-roberrt-2021-full-movie-hindi-hq-voice-over-dubbed-480p-550mb-720p-1-5gb-1080p-3gb-2/"
+      "courseName":"Mortal Kombat",
+      "courseimg":"https://vegamovies.co.in/wp-content/uploads/2021/05/Mortal-Kombat-Hindi-Dubbed-poster.jpg",
+      "courseMode":"https://vegamovies.co.in/download-mortal-kombat-2021-hindi-dubbed-org-bluray-480p-720p-1080p/"
    }
+   
+   
 ]

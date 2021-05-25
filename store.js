@@ -23,7 +23,22 @@
       "courseName":"Mortal Kombat",
       "courseimg":"https://vegamovies.co.in/wp-content/uploads/2021/05/Mortal-Kombat-Hindi-Dubbed-poster.jpg",
       "courseMode":"https://vegamovies.co.in/download-mortal-kombat-2021-hindi-dubbed-org-bluray-480p-720p-1080p/"
+   },
+   {
+      "courseName":"Nobody 2021",
+      "courseimg":"https://vegamovies.co.in/wp-content/uploads/2021/04/Nobody-2021-Hindi.png",
+      "courseMode":"https://vegamovies.co.in/download-nobody-2021-dual-audio-hindi-480p-720p/"
+   },
+   {
+      "courseName":"Godzilla vs Kong 2021",
+      "courseimg":"https://vegamovies.co.in/wp-content/uploads/2021/05/Godzilla-Vs.-Kong-2021-Hindi-Dubbed.jpg",
+      "courseMode":"https://vegamovies.co.in/godzilla-vs-kong-2021-dual-audio-hindi-480p-720p-1080p-download/"
    }
+//    {
+//       "courseName":"",
+//       "courseimg":"",
+//       "courseMode":""
+//    },
    
    
 ]

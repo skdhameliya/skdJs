@@ -7,7 +7,7 @@
    {
       "courseName":"Maharani S1-E1",
       "courseimg":"https://firebasestorage.googleapis.com/v0/b/m-arena1.appspot.com/o/bolly1%2Fseries1%2Fmaharani.jpg?alt=media&token=d927189b-b92b-4100-b978-3130ce8651fb",
-      "courseMode":"Coming Soon"
+      "courseMode":"https://xpshort.com/Maharani-s1-e1"
    },
    {
       "courseName":"Maharani S1-E2",

@@ -1,5 +1,59 @@
 [
-   
+   //    {
+//       "courseName":"",
+//       "courseimg":"",
+//       "courseMode":""
+//    },
+   {
+      "courseName":"Maharani S1-E1",
+      "courseimg":"https://firebasestorage.googleapis.com/v0/b/m-arena1.appspot.com/o/bolly1%2Fseries1%2Fmaharani.jpg?alt=media&token=d927189b-b92b-4100-b978-3130ce8651fb",
+      "courseMode":"Coming Soon"
+   },
+   {
+      "courseName":"Maharani S1-E2",
+      "courseimg":"https://firebasestorage.googleapis.com/v0/b/m-arena1.appspot.com/o/bolly1%2Fseries1%2Fmaharani.jpg?alt=media&token=d927189b-b92b-4100-b978-3130ce8651fb",
+      "courseMode":"Coming Soon"
+   },
+   {
+      "courseName":"Maharani S1-E3",
+      "courseimg":"https://firebasestorage.googleapis.com/v0/b/m-arena1.appspot.com/o/bolly1%2Fseries1%2Fmaharani.jpg?alt=media&token=d927189b-b92b-4100-b978-3130ce8651fb",
+      "courseMode":"Coming Soon"
+   },
+   {
+      "courseName":"Maharani S1-E4",
+      "courseimg":"https://firebasestorage.googleapis.com/v0/b/m-arena1.appspot.com/o/bolly1%2Fseries1%2Fmaharani.jpg?alt=media&token=d927189b-b92b-4100-b978-3130ce8651fb",
+      "courseMode":"Coming Soon"
+   },
+   {
+      "courseName":"Maharani S1-E5",
+      "courseimg":"https://firebasestorage.googleapis.com/v0/b/m-arena1.appspot.com/o/bolly1%2Fseries1%2Fmaharani.jpg?alt=media&token=d927189b-b92b-4100-b978-3130ce8651fb",
+      "courseMode":"Coming Soon"
+   },
+   {
+      "courseName":"Maharani S1-E6",
+      "courseimg":"https://firebasestorage.googleapis.com/v0/b/m-arena1.appspot.com/o/bolly1%2Fseries1%2Fmaharani.jpg?alt=media&token=d927189b-b92b-4100-b978-3130ce8651fb",
+      "courseMode":"Coming Soon"
+   },
+   {
+      "courseName":"Maharani S1-E7",
+      "courseimg":"https://firebasestorage.googleapis.com/v0/b/m-arena1.appspot.com/o/bolly1%2Fseries1%2Fmaharani.jpg?alt=media&token=d927189b-b92b-4100-b978-3130ce8651fb",
+      "courseMode":"Coming Soon"
+   },
+   {
+      "courseName":"Maharani S1-E8",
+      "courseimg":"https://firebasestorage.googleapis.com/v0/b/m-arena1.appspot.com/o/bolly1%2Fseries1%2Fmaharani.jpg?alt=media&token=d927189b-b92b-4100-b978-3130ce8651fb",
+      "courseMode":"Coming Soon"
+   },
+   {
+      "courseName":"Maharani S1-E9",
+      "courseimg":"https://firebasestorage.googleapis.com/v0/b/m-arena1.appspot.com/o/bolly1%2Fseries1%2Fmaharani.jpg?alt=media&token=d927189b-b92b-4100-b978-3130ce8651fb",
+      "courseMode":"Coming Soon"
+   },
+   {
+      "courseName":"Maharani S1-E10",
+      "courseimg":"https://firebasestorage.googleapis.com/v0/b/m-arena1.appspot.com/o/bolly1%2Fseries1%2Fmaharani.jpg?alt=media&token=d927189b-b92b-4100-b978-3130ce8651fb",
+      "courseMode":"Coming Soon"
+   },
    {
       "courseName":"Radhe - your most wanted bhai",
       "courseimg":"https://firebasestorage.googleapis.com/v0/b/m-arena1.appspot.com/o/bolly1%2FRadhe.jpg?alt=media&token=e660120c-1be1-4a8e-b599-22ab834652e5",
